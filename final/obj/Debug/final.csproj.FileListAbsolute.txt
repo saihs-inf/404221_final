@@ -1,0 +1,9 @@
+C:\Users\INF2A-user\Desktop\final\final\bin\Debug\final.exe.config
+C:\Users\INF2A-user\Desktop\final\final\bin\Debug\final.exe
+C:\Users\INF2A-user\Desktop\final\final\bin\Debug\final.pdb
+C:\Users\INF2A-user\Desktop\final\final\obj\Debug\final.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\final\final\obj\Debug\final.Form1.resources
+C:\Users\INF2A-user\Desktop\final\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\final\final\obj\Debug\final.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\final\final\obj\Debug\final.exe
+C:\Users\INF2A-user\Desktop\final\final\obj\Debug\final.pdb
